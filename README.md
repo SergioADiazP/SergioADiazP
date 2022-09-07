@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @SergioADiazP
+- 👀 I’m interested in Learning coding without a former developer background
+- 🌱 I’m currently learning SQL
