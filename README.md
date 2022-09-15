@@ -1,2 +1,0 @@
-- 👋 Hi, I’m @SergioADiazP
-- 👀 I’m interested in coding and database administration
